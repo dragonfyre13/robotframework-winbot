@@ -1,0 +1,1 @@
+This is a robotframework module (http://code.google.com/p/robotframework/) that allows someone to automate a windows GUI. It's in the initial stages, but usable for testing windows GUI applications. It requires sendkeys and pywinauto in it's current state.
